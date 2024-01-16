@@ -10,7 +10,7 @@ const ProductCard = ({ product }) => {
       _hover={{ textDecor: 'none' }}>
       <Box
         borderRadius='lg'
-        bgColor='white'
+        bgColor='darkgray'
         width='full'
         _hover={{ shadow: 'md' }}>
         <Image
